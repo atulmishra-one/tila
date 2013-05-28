@@ -1,0 +1,39 @@
+body{ font-family:Verdana, Geneva, sans-serif; font-size:14px; margin:0; background:#FFF; text-align:left; alignment-baseline:baseline; vertical-align:baseline;}
+a{color:#105cb6;  text-decoration:none;}
+a:hover{ text-decoration:underline;}
+#wrapper{ width:99%; margin:0 auto; border:1px solid #CADBEB; padding:2px; background:#fefeee; border-bottom:none;}
+#header{}
+#content{ padding:2px;}
+#footer{ background:#eaeaea; padding:3px; border-top:1px solid #CCCCCC;}
+#footer .footer-list{ padding:0; margin:0}
+#footer .footer-list li{ display:block;}
+#footer p{ color:#999999; font-size:small;}
+fieldset{ padding:1px; border:1px solid #CADBEB;}
+fieldset legend{ color:#C00;}
+.form li{ display:block; font-weight:bold;}
+.home-links a{ font-size:16px; font-weight:bold;} 
+.error{ border:1px solid #F00; background:#FFC; padding:1px;}
+a.small-link{ font-size:10px;}
+.people-may-know div{ float:left; padding:3px;}
+.people-may-know div img { width:36px; height:36px;}
+#clear{ clear:both;}
+hr{ border-bottom:1px solid #CCC; border-top:none;}
+fieldset ol{ margin:4px;}
+.help-block{ font-size:10px; display:block;}
+.more-stuffs{ margin:2px; padding:2px;}
+.more-stuffs li{ display:inline;}
+.block-list{ padding:0;}
+.block-list li{ display:block;}
+.small-label{ font-size:70%; font-weight:bold;}
+.bold-link{ font-size:small; font-weight:bold; color:#06c;}
+.bold-link1{ font-size:80%; font-weight:bold;}
+.bg-box{background:#ffffdd;}
+.bg-box1{ background:#ffffeb;}
+.white-bg{ background:#FFFFFF;}
+.faded{ color:#CCCCCC; font-size:smaller;}
+.chat-msgs{ vertical-align:baseline; font-size:smaller; text-align:right; width:100%; height:100%;}
+
+
+
+
+
