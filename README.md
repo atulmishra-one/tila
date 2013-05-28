@@ -1,4 +1,4 @@
 tila
 ====
 
-This is mobile social networking site project plaese do not modify it
+This is personal mobile social networking site project please do not modify it
